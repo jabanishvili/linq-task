@@ -1,0 +1,12 @@
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.AssemblyInfoInputs.cache
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.AssemblyInfo.cs
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/linqtask/linqtask/bin/Debug/netcoreapp3.1/linqtask.deps.json
+/Users/admin/Projects/linqtask/linqtask/bin/Debug/netcoreapp3.1/linqtask.runtimeconfig.json
+/Users/admin/Projects/linqtask/linqtask/bin/Debug/netcoreapp3.1/linqtask.runtimeconfig.dev.json
+/Users/admin/Projects/linqtask/linqtask/bin/Debug/netcoreapp3.1/linqtask.dll
+/Users/admin/Projects/linqtask/linqtask/bin/Debug/netcoreapp3.1/linqtask.pdb
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.dll
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.pdb
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.genruntimeconfig.cache
+/Users/admin/Projects/linqtask/linqtask/obj/Debug/netcoreapp3.1/linqtask.csproj.AssemblyReference.cache
